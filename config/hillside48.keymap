@@ -9,13 +9,10 @@
 #define X_RM    &kp ENTER
 
 #define X_LB    &kp LSHFT
-#define X_RB    &kp &caps_word
-
-#define X_LH    &kp A &kp B &kp C
-#define X_RH    &kp D &kp E &kp PRINTSCREEN
 
 /* activate bluetooth */
 #define CONFIG_WIRELESS 1
 
 /* source the main keymap */
 #include "base.keymap"
+    ,.????eennnienieienienien
