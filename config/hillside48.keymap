@@ -9,6 +9,12 @@
 #define X_RM    &kp ENTER
 
 #define X_LB    &kp LSHFT
+#define X_MB    &kp O &kp I
+#define X_RB    &kp U
+
+#define X_LH    &kp A &kp B
+#define X_MH    &kp R &kp S
+#define X_RH    &kp D &kp E
 
 /* activate bluetooth */
 #define CONFIG_WIRELESS 1
